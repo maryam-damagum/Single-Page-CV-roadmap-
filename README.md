@@ -24,6 +24,8 @@ Mobile-friendly basics via <meta name="viewport"> (no styles).
 
 Simple and easy to version-control or host anywhere.
 
+https://github.com/maryam-damagum/Single-Page-CV-roadmap-/blob/main/index.html
+
 How to Preview
 
 Download or clone the repository.
