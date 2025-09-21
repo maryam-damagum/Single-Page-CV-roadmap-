@@ -23,7 +23,9 @@ Clear content sections for easy editing: Contact, Summary, Skills, Experience, E
 Mobile-friendly basics via <meta name="viewport"> (no styles).
 
 Simple and easy to version-control or host anywhere.
+
 <a href = "https://github.com/maryam-damagum/Single-Page-CV-roadmap-" target="_blank">Click Me</a>
+
 
 How to Preview
 
